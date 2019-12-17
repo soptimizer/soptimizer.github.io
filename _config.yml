@@ -10,16 +10,16 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Senai Kalafat # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: senai_profile.jpg # add your photo
 about-author: Bilgisayar Mühendisliği Mezunu, Yazılım Mühendisi, Meraklı # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: soptimizer # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-linkedin: senai-kalafat-36434145 # add your Linkedin handle
+social-email: senaikalafat@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: Senai # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
