@@ -12,7 +12,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Senai Kalafat # add your name
 author-img: senai_profile.jpg # add your photo
 about-author: Bilgisayar Mühendisliği Mezunu, Yazılım Mühendisi, Meraklı, İşini Seven # add description
-social-twitter: senaikalafat # add your Twitter handle
+social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: soptimizer # add your Github handle
 social-linkedin: senai-kalafat # add your Linkedin handle
