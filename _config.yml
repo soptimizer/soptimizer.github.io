@@ -14,9 +14,9 @@ author-img: senai_profile.jpg # add your photo
 about-author: Bilgisayar Mühendisliği Mezunu, Yazılım Mühendisi, Meraklı, İşini Seven # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: soptimizer # add your Github handle
-social-linkedin: senai-kalafat # add your Linkedin handle
-social-email: senaikalafat@gmail.com # add your Email address
+social-github: #soptimizer # add your Github handle
+social-linkedin: #senai-kalafat # add your Linkedin handle
+social-email: #senaikalafat@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: # add your discus identifier
