@@ -3,7 +3,7 @@ layout: post
 title: İstemci Sunucu Mimarilerinde Diffie-Hellman Kullanımı ve Güvenli Haberleşme
 date: 2021-03-20 13:32:20 +0300
 description: Haberleşme mimarilerinizde SSL kullanamadığınız ya da ek güvenlik önlemi kullanmak istediğiniz durumlarda yardımınıza yetişecek bir çözüm ECDH. # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
+img: how-to-start.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [SSL, Güvenlik, Haberleşme, Açık Anahtar, diffie hellman]
 ---
