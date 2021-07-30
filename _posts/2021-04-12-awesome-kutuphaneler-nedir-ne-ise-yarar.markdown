@@ -11,7 +11,7 @@ Gerek deneyimli gerek yeni başlayan yazılım geliştirici adayları için olur
 
 Yeni bir dil, framework, kütüphane ya da benzeri bir teknoloji üzerine çalışıyorsunuz. Fakat neler yapılabilir ne gibi destekleri ve entegrasyon kütüphaneleri var bilmiyorsunuz. Size bir kaç örnek ile basit bir yol göstereyim.
 
-Örnek olarak, ModeJS üzerine çalışmaya başladınız ya da zaten çalışıyorsunuz. Google'a Awesome Nodejs github yazmanız yeterli.
+Örnek olarak, NodeJS üzerine çalışmaya başladınız ya da zaten çalışıyorsunuz. Google'a Awesome Nodejs github yazmanız yeterli.
 
 Karşınıza çıkacak repoda aslında node js ile ilgili neredeyse derlenmiş tüm kaynakları bulabilirsiniz.
 
