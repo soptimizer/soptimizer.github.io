@@ -24,6 +24,6 @@ Buraya kadar sıkıntı yok ama ben bununla uğraşamam elimde kaynak kodu yok, 
 
 Bu çocu zaman iş görür. Ancak bazı spesifik durumlarda sorunlar yaşayabilirsiniz.
 
-Örnek olarak diyelim ki çalıştırdığınız uygulama windows tarafından gönderilen bazı sinyallere göre işlem yapacak. Misal bu sinyallere SIGTERM, SIGKILL olsun. Uygulamayı kapatırken bu sinyalleri işleyip ona göre bazı kaynak yönetim süreçlerini yürütebilirsiniz. Ve uygulamayı debug ettiğinizde hiç bir sorun yaşamayacaksınız. Ta ki NSSM ile servis olarak çalıştırana kadar. Çünkü NSSM uygulamayı sizin istediğiniz ve ya yakalayabileceğiniz sinyallerle kapatmayabilir. Sinyallerle çalışmak zaten sıkıntılıyken bir de bu işin içine girdiğinde servisim neden düzgün kapanmıyor sorununun içinde bulabilirsiniz kendinizi.
+Örnek olarak diyelim ki çalıştırdığınız uygulama windows tarafından gönderilen bazı sinyallere göre işlem yapacak. Misal bu sinyallere SIGTERM, SIGINT olsun. Uygulamayı kapatırken bu sinyalleri işleyip ona göre bazı kaynak yönetim süreçlerini yürütebilirsiniz. Ve uygulamayı debug ettiğinizde hiç bir sorun yaşamayacaksınız. Ta ki NSSM ile servis olarak çalıştırana kadar. Çünkü NSSM uygulamayı sizin istediğiniz ve ya yakalayabileceğiniz sinyallerle kapatmayabilir. Sinyallerle çalışmak zaten sıkıntılıyken bir de bu işin içine girdiğinde servisim neden düzgün kapanmıyor sorununun içinde bulabilirsiniz kendinizi.
 
 Daha detaylı bir örneği daha sonra paylaşacağım ama biraz teknikten uzak kalsak da olabildiğince net açıklamaya çalıştım.
