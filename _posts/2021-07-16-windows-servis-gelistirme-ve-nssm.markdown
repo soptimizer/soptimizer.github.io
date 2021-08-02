@@ -2,9 +2,9 @@
 layout: post
 title: Windows Servis Geliştirme ve Nssm
 date: 2021-07-16 00:00:00 +0300
-description: #You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Servisler yazılım dünyasının vazgeçilmezleridir. Hangi işletim sisteminde olursa olsun servis kullanımı zorunlu ve itina ile gerçekleştirilmelidir.
 img: service.jpg # Add image post (optional)
-tags: [windows, servis, sunucu, nssm] # add tag
+tags: [windows, servis, sunucu, nssm, senai kalafat] # add tag
 ---
 
 Servisler yazılım dünyasının vazgeçilmezleridir. Hangi işletim sisteminde olursa olsun servis kullanımı zorunlu ve itina ile gerçekleştirilmelidir.

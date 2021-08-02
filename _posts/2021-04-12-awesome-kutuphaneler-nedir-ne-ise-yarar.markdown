@@ -2,9 +2,9 @@
 layout: post
 title: Awesome kütüphaneleri nedir, Ne işe yarar?
 date: 2021-04-12 00:00:00 +0300
-description: # Add post description (optional)
+description: Yeni bir dil, framework, kütüphane ya da benzeri bir teknoloji üzerine çalışıyorsunuz. Fakat neler yapılabilir ne gibi destekleri ve entegrasyon kütüphaneleri var bilmiyorsunuz. Size bir kaç örnek ile basit bir yol göstereyim.
 img: software.jpg # Add image post (optional)
-tags: [Üretkenlik, Araçlar, Yardımcı, Yazılım, Github, Awesome, Utilities, Productivity, Software] # add tag
+tags: [Üretkenlik, Araçlar, Yardımcı, Yazılım, Github, Awesome, Utilities, Productivity, Software, senai kalafat] # add tag
 ---
 
 Gerek deneyimli gerek yeni başlayan yazılım geliştirici adayları için olur da duymamış iseler diye ufak bir tüyo vermek istiyorum.

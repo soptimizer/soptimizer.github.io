@@ -2,9 +2,9 @@
 layout: post
 title: Ionic Capacitor vs Native Mobil Uygulamalar
 date: 2021-07-12 00:00:00 +0300
-description: #You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Ionic 5 ve Capacitor ikilisiyle ilgili çalışmaların sonuçları çok yakında burada.
 img: how-to-start.jpg # Add image post (optional)
-tags: [ionic, android, mobil uygulama, performansi, karşılaştırma, react, angular, inceleme] # add tag
+tags: [ionic, android, mobil uygulama, performansi, karşılaştırma, react, angular, inceleme, senai kalafat] # add tag
 ---
 
 Ionic 5 ve Capacitor ikilisiyle ilgili çalışmaların sonuçları çok yakında burada.

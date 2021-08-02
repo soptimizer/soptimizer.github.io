@@ -2,9 +2,9 @@
 layout: post
 title: Çip Krizinin bariz yansılamarı ve stok problemleri
 date: 2021-06-07 00:00:00 +0300
-description: #You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Çip krizi sebebiyle ciddi anlamda stok krizi yaşanacağı söylenmişti. Ama bu kadarını tahmin etmek mümkün değildi sanırım. Fiyatı düşmesi gereken gittikçe değerlenirken gerek AMD gerek Intel cephesinden yeni nesil cihazlar piyasaya sürülemiyor. İşin ilginç yani ise az da olsa oyun laptoplarında yeni nesil işlemcileri görmek mümkünken kurumsal ürünlerde aynı şeyleri söylemek mümkün değil.
 img: workflow.jpg # Add image post (optional)
-tags: [geliştirici, stok, laptop, çip krizi, M1, intel, amd, ryzen] # add tag
+tags: [geliştirici, stok, laptop, çip krizi, M1, intel, amd, ryzen, senai kalafat] # add tag
 ---
 
 Çip krizi sebebiyle ciddi anlamda stok krizi yaşanacağı söylenmişti. Ama bu kadarını tahmin etmek mümkün değildi sanırım. Fiyatı düşmesi gereken gittikçe değerlenirken gerek AMD gerek Intel cephesinden yeni nesil cihazlar piyasaya sürülemiyor. İşin ilginç yani ise az da olsa oyun laptoplarında yeni nesil işlemcileri görmek mümkünken kurumsal ürünlerde aynı şeyleri söylemek mümkün değil.
