@@ -1,6 +1,6 @@
 title: Senai Kalafat - Software Developer
 description: > # this means to ignore newlines until "baseurl:"
-  Küçük notlar, faydalı bilgiler, tavsiyeler vb paylaştığım micro blog - Senai Kalafat
+  Küçük notlar, faydalı bilgiler, teknik tavsiyeler, yazılım mimarisi konuları, üretkenlik vb üzerine paylaştığım mikro blog - Senai Kalafat
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.senaikalafat.com" # the base hostname & protocol for your site, e.g. http://example.com
