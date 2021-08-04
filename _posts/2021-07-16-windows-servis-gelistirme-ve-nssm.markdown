@@ -4,7 +4,7 @@ title: Windows Servis Geliştirme ve Nssm
 date: 2021-07-16 00:00:00 +0300
 description: Servisler yazılım dünyasının vazgeçilmezleridir. Hangi işletim sisteminde olursa olsun servis kullanımı zorunlu ve itina ile gerçekleştirilmelidir.
 img: service.jpg # Add image post (optional)
-tags: [windows, servis, sunucu, nssm, senai kalafat] # add tag
+tags: [windows, servis, service, sunucu, nssm, senai kalafat] # add tag
 ---
 
 Servisler yazılım dünyasının vazgeçilmezleridir. Hangi işletim sisteminde olursa olsun servis kullanımı zorunlu ve itina ile gerçekleştirilmelidir.
