@@ -10,11 +10,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Senai Kalafat # add your name
 author-img: profil.jpeg # add your photo
 about-author: Bilgisayar Mühendisliği Mezunu, Yazılım Mühendisi, Meraklı, İşini Seven # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: #soptimizer # add your Github handle
-social-linkedin: #senai-kalafat # add your Linkedin handle
-social-email: #senaikalafat@gmail.com # add your Email address
+social-twitter: https://senaikalafat.brandyourself.com/
+social-facebook: senaikalafat
+social-github: soptimizer
+social-linkedin: senai-kalafat # add your Linkedin handle
+social-email: # # add your Email address
 
 # Disqus
 discus-identifier: # add your discus identifier
